@@ -1,2 +1,2 @@
 console.log('Loaded!');
-alert("watch it")
+alert("watch it");
