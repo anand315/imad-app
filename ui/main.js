@@ -1,2 +1,2 @@
 console.log('Loaded!');
-alert("be aware")
+alert("be awyare")
