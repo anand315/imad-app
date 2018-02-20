@@ -1,2 +1,4 @@
 console.log('Loaded!');
-alert("watch it");
+<script type='text/javascript'>
+alert("watch it"); 
+</script>
