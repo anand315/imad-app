@@ -3,11 +3,11 @@ height: 200px;
 }
 body{
 background-color: #CC73D1 ;    
+
+    
 }
-#d1{
-color:teal;
-background: gray;
-}
-#t1{
-    background:yellow;
+.f1{
+    
+    background-color:grey;
+    border: 20px;
 }
