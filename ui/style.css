@@ -5,5 +5,9 @@ body{
 background-color: #CC73D1 ;    
 }
 #d1{
-color:teal;    
+color:teal;
+background: gray;
+}
+#t1{
+    background:yellow;
 }
