@@ -1,6 +1,6 @@
 
 body{
-background-color: lightyellow ;
+background-color: #CE9548 ;
 text-align:center;
 font-size:40px;
 
@@ -10,8 +10,8 @@ form{
     margin:50px;
 }
 form{
-    border: 50px;
-    background: red;
+    border: 40px;
+    background: lightyellow;
 }
 
 .pwd{
