@@ -1,13 +1,22 @@
 
 body{
-background-color: green ;
+background-color: lightyellow ;
 text-align:center;
+font-size:40px;
 
     
+}
+form{
+    margin:50px;
 }
 .f1{
 border:20px;
 padding:10px;
 margin: 15px ;
+    
+}
+.pwd{
+    padding:10px;
+    background:yellow;
     
 }
