@@ -1,13 +1,13 @@
-img{
-height: 200px;    
-}
+
 body{
-background-color: #CC73D1 ;    
+background-color: green ;
+text-align:center;
 
     
 }
 .f1{
+border:20px;
+padding:10px;
+margin: 15px ;
     
-    background-color:grey;
-    border: 20px;
 }
