@@ -7,11 +7,8 @@ font-size:40px;
     
 }
 form{
-    margin:50px;
-}
-form{
     border: 40px;
-    background: lightyellow;
+    background: #A07590;
 }
 
 .pwd{
@@ -27,4 +24,7 @@ form{
     color: white;
     border:20px;
     font-size:50px;
+}
+.p1{
+    color:grey;
 }
